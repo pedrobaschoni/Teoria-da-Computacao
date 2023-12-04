@@ -12,7 +12,7 @@ O tradutor de Código Morse é uma aplicação simples que converte mensagens en
 
 ## Como Testar o Tradutor
 
-1. Baixe e instale o JFLAP. Você pode encontrar a versão mais recente em [jflap.org](http://www.jflap.org/).
+1. Baixe e instale o JFLAP.
 
 2. Abra o JFLAP e carregue o arquivo do projeto.
 
